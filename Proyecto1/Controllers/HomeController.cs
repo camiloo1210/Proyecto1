@@ -4,6 +4,7 @@ using System.Diagnostics;
 
 namespace Proyecto1.Controllers
 {
+    //vbjklñ
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
