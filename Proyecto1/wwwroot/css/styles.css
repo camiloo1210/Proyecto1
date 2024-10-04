@@ -1,0 +1,37 @@
+﻿p{
+    color:green;
+    font-size:50px;
+    background-color:aquamarine;
+
+}
+
+.p1 {
+    color: orangered;
+    border-color: black;
+    font-size: 40px;
+    background-color: blue;
+}
+.p2{
+    color:blueviolet;
+    font-size:10px;
+    text-decoration:underline;
+}
+#hola{
+    color:brown;
+    background-color:aliceblue;
+    font-family:AMGDT_IV50;
+}
+button {
+    border-radius: 15px; /* Bordes redondeados */
+    padding: 10px 20px; /* Espaciado interno */
+    background-color: #4CAF50; /* Color de fondo */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    transition: box-shadow 0.3s ease; /* Transición suave para el sombreado */
+}
+
+button:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombreado al pasar el mouse */
+}
+
